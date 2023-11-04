@@ -115,19 +115,19 @@ End
 
 **Early gameplay** 
 
--Character Movement and shooting has been added
--The hazards (Enemies) will chase the player and make them loose a life 
--Points are rewarded when eliminating a zombie
--A round base has been added allow for hoards to spawn each round increasing in numbers and allowing for more of a challenge
+- Character Movement and shooting has been added
+- The hazards (Enemies) will chase the player and make them loose a life 
+- Points are rewarded when eliminating a zombie
+- A round base has been added allow for hoards to spawn each round increasing in numbers and allowing for more of a challenge
 
 **Finished gameplay**
 
 Including all the early gameplay features as already stated.
--A Game Over screen has been added, showing the round survived to and the overall score achieved 
--Updated Player and Zombie textures which both changes depending on movement 
--Collectable points have been added, allow the player to increase their score by picking up the items.
--Background image added
--Timer has been added in the top right
+- A Game Over screen has been added, showing the round survived to and the overall score achieved 
+- Updated Player and Zombie textures which both changes depending on movement 
+- Collectable points have been added, allow the player to increase their score by picking up the items.
+- Background image added
+- Timer has been added in the top right
 
 
 > ### Review
