@@ -1,4 +1,4 @@
-# Land_of_Despair-first_game_created
+# Land_of_Despair(first_game_created)
 This is a 2D game in C# using Visual Studio 2022 and the Monogame extension. It involves collecting items, avoiding hazards, managing lives, and progressively increasing difficulty as you advance through levels, aligning with specific scenario requirements and tasks that was assigned.
 
 The full PDF can be sent if requested, but here is some of the basic documentation that went into the game:
