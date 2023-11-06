@@ -37,7 +37,8 @@ Is to see how long you can survive for, due to it being a round based game, mean
 **Rounds**
 (Let N = round number)
 
-- Zombie health =50+100N
+**Zombie health =50+100N**
+
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |------------|---|---|---|---|---|---|---|---|---|----|
 | Health     |150|250|350|450|550|650|750|850|950|1050|
