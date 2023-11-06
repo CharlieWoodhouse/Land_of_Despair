@@ -35,6 +35,7 @@ Is to see how long you can survive for, due to it being a round based game, mean
 
 
 **Rounds**
+
 (Let N = round number)
 
 **Zombie health =50+100N**
