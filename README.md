@@ -72,7 +72,6 @@ My game design centres around surviving waves of zombies while gathering valuabl
 
 ### Map
 
-
 ![Map](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/ac2f38b0-ddc2-4e28-9ed5-f6434810b289)
 
 ### Game algorithm (pseudo code)
