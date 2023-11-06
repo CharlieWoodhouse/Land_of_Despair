@@ -11,7 +11,7 @@ Score based performance allows players to receive a score to improve on, allowin
 
 My game design centres around surviving waves of zombies while gathering valuable items like gold, silver, and gems to accumulate points. You can also earn points by eliminating zombies. As the rounds progress, the number of zombies intensifies, making higher rounds more challenging to endure. This demands skill to reach higher levels. Losing a life occurs when a zombie hits you, and players start with 3 lives. Once all 3 lives are depleted, it's game over. 
 
-###Key Features:
+### Key Features:
 - Top-down perspective gameplay
 - Increasingly challenging rounds of zombies
 - WASD keys for movement
@@ -21,7 +21,7 @@ My game design centres around surviving waves of zombies while gathering valuabl
 - The aim is to see how long you can survive, with round-based scoring.
 
 
-###Scoring
+### Scoring
 
 | Item      | Points Awarded |
 |-----------|----------------|
@@ -31,7 +31,7 @@ My game design centres around surviving waves of zombies while gathering valuabl
 | Zombie    | 100            |
 
 
-###Rounds
+### Rounds
 (This is subject to change when implemented into the game)
 
 (Let N = round number)
@@ -60,7 +60,7 @@ My game design centres around surviving waves of zombies while gathering valuabl
 |------------|---|---|---|---|---|---|---|----|----|----|
 | Speed      |6.5|7.0|7.5|8.0|8.5|9.0|9.5|10.0|10.5|11.0|
 
-###Game algorithm (pseudo code)
+### Game algorithm (pseudo code)
 ```python
 Start
 
