@@ -32,7 +32,7 @@ Is to see how long you can survive for, due to it being a round based game, mean
 
 
 **Rounds**
-_Let N = round number_
+(Let N = round number)
 
 - Zombie health =50+100N
 - Zombies spawn delay =10-((N-1))/2  
