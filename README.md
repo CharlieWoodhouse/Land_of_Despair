@@ -21,12 +21,12 @@ My game design centres around surviving waves of zombies while gathering valuabl
 - The aim is to see how long you can survive, with round-based scoring.
 
 ### Playable Character Movement 
-
+When any of the WASD keys are pressed, the character will change direction:
 
 ![Playable Character Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/6287b3ed-c281-4460-ac44-f0ff93150b51)
 
 ### Zombie Movement
-
+Depending on the direction the player is moving, will determine the zombies direction:
 
 ![Zombie Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/faa5deeb-7fcf-4314-9b35-2b80f29033c2)
 
