@@ -132,4 +132,4 @@ Including all the early gameplay features as already stated.
 
 > ### Review
 
-I feel like I have a great foundation for an entertaining game but can be improved by adding the power ups, adding the objective sprites, adding more weapons and a retry option on end screen, but considering it to be my first game and with a 11 week time frame, I think I did well.
+I feel like I have a great foundation for an entertaining game but can be improved by adding power ups, adding the objective sprites, adding more weapons and a retry option on end screen, but considering it to be my first game and with a 11 week time frame, I think I did well.
