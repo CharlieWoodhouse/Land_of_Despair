@@ -80,7 +80,7 @@ End screen gets displayed.
 End
 
 
-> ### Test plan created
+> ### Test plan that took place
 
 **Functional Testing**
 - Player Movement
