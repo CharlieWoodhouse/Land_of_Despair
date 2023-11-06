@@ -66,10 +66,10 @@ My game design centres around surviving waves of zombies while gathering valuabl
 Start
 
 If player presses the W key
-player moves forward. 
+player moves up. 
 
 If player presses the S key
-Player moves backwards.
+Player moves down.
 
 If player presses the A key 
 Player moves to the Left.
