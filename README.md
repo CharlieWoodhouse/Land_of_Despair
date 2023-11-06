@@ -1,4 +1,4 @@
-# Land_of_Despair(first_game_created)
+# Land of Despair (First Game Created)
 Land of Despair is a 2D game developed in C# using Visual Studio 2022 and the Monogame extension. This top-down shooter game challenges players to survive waves of zombies, collect valuable items, and achieve high scores as they progress through rounds.
 
 The full PDF can be sent if requested, but here is some of the basic documentation that went into the game:
@@ -18,10 +18,7 @@ My game design centres around surviving waves of zombies while gathering valuabl
 - Mouse aiming for the space gun
 - Scoring system based on zombie elimination and item collection
 - Three lives per game
-
-
-**The aim**
-Is to see how long you can survive for, due to it being a round based game, meaning you can gain points and survive rounds to reach a high score.
+- The aim is to see how long you can survive, with round-based scoring.
 
 
 **Scoring**
@@ -64,7 +61,7 @@ Is to see how long you can survive for, due to it being a round based game, mean
 | Speed      |6.5|7.0|7.5|8.0|8.5|9.0|9.5|10.0|10.5|11.0|
 
 **Game algorithm (pseudo code)**
-
+```python
 Start
 
 If player presses the W key
@@ -101,7 +98,7 @@ If player loses all the lives
 End screen gets displayed. 
 
 End
-
+```
 
 > ### Test plan that took place
 
