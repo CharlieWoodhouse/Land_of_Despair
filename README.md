@@ -20,10 +20,16 @@ My game design centres around surviving waves of zombies while gathering valuabl
 - Three lives per game
 - The aim is to see how long you can survive, with round-based scoring.
 
-### Playable Character
+### Playable Character Movement 
 
 
 ![Playable Character Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/6287b3ed-c281-4460-ac44-f0ff93150b51)
+
+### Zombie Movement
+
+
+![Zombie Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/faa5deeb-7fcf-4314-9b35-2b80f29033c2)
+
 
 ### Scoring
 
