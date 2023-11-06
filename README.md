@@ -27,12 +27,12 @@ My game design centres around surviving waves of zombies while gathering valuabl
 
 ### Scoring
 
-| Item      | Points Awarded | Image                                                                                                                        |
-|-----------|----------------|------------------------------------------------------------------------------------------------------------------------------|
-| Gold      | 50             |![New Piskel (10)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/d6549b36-921d-4253-9078-c4cf36a56c5d) |
-| Silver    | 25             |![New Piskel (11)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/6882a6f9-124a-41f7-b425-72da191787c2)
-| Gem       | 75             |![New Piskel (12)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/7638da05-ce74-42b2-97af-90d3160ba12e)
-| Zombie    | 100            |
+| Item                                                                                                                                    | Points Awarded | Image                                                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------------------------------|----------------|------------------------------------------------------------------------------------------------------------------------------|
+| ![New Piskel (10)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/d6549b36-921d-4253-9078-c4cf36a56c5d) Gold      | 50             |![New Piskel (10)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/d6549b36-921d-4253-9078-c4cf36a56c5d) |
+| ![New Piskel (11)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/6882a6f9-124a-41f7-b425-72da191787c2) Silver    | 25             |![New Piskel (11)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/6882a6f9-124a-41f7-b425-72da191787c2)
+| ![New Piskel (12)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/7638da05-ce74-42b2-97af-90d3160ba12e) Gem       | 75             |![New Piskel (12)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/7638da05-ce74-42b2-97af-90d3160ba12e)
+|                                                                                                                               Zombie    | 100            |
 
 
 ### Rounds
