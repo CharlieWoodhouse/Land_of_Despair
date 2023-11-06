@@ -102,7 +102,7 @@ End
 
 > ### Test plan that took place
 
-**Functional Testing**
+### Functional Testing
 
 | Test ID | Test              | How I Tested                                     |
 |---------|-------------------|--------------------------------------------------|
@@ -116,7 +116,7 @@ End
 | 8       | Score Calculation | Pick up Gold, Silver, Gems and eliminate zombies |
 | 9       | Game Over         | Make the players health reach zero               |
 
-**Usability Testing**
+### Usability Testing
 
 | Test ID | Test                          | How I Tested                                            |
 |---------|-------------------------------|---------------------------------------------------------|
@@ -126,7 +126,7 @@ End
 | 4       | Round Progression             | Shooting zombies to go up the rounds                    |
 | 5       | User Interface Layout         | Easy to glance as lives, score, and round on the screen |
 
-**Stability and Performance**
+### Stability and Performance
 
 | Test ID | Test                      | How I Tested                               |
 |---------|---------------------------|--------------------------------------------|
