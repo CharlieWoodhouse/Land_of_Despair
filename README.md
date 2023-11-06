@@ -33,17 +33,19 @@ My game design centres around surviving waves of zombies while gathering valuabl
 
 ### Scoring
 
-| Image                                                                                                                       | Iteam  | Points Awarded |
+| Image                                                                                                                       | Item   | Points Awarded |
 |-----------------------------------------------------------------------------------------------------------------------------|--------|----------------|
 | ![Gold](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/d6549b36-921d-4253-9078-c4cf36a56c5d)          | Gold   | 50             |               
 | ![Silver](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/6882a6f9-124a-41f7-b425-72da191787c2)        | Silver | 25             |
 | ![Gem](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/7638da05-ce74-42b2-97af-90d3160ba12e)           | Gem    | 75             |
 | ![Zombie Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/b0cf70a2-cd91-426c-911f-d46bae8a96bb)| Zombie | 100            |
 
-### Map
-I went with a basic cave map, that will allow sprites to easly stand out to the player:
+### Extra Item
 
-![Map](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/ac2f38b0-ddc2-4e28-9ed5-f6434810b289)
+| Image                                                                                                                      | Item   | Effect |
+|----------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|![New Piskel (9)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/423e6f22-0ca3-4df5-a389-6abce58154e4)| Heart   | Extra life, which when picked up, will add another heart to the HUD bar             |               
+|![New Piskel (7)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/46155817-0955-4ada-b7b1-895deea30496)| Lightning Bolt | Speed up the character movement by x2              |
 
 ### HUD
 These are health bars for players lives between 0 – 4 lives:
@@ -53,6 +55,11 @@ These are health bars for players lives between 0 – 4 lives:
 ![2 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/12208c00-a13c-4f43-a356-19e2151e3aa7)
 ![3 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/40d3035e-4e18-4c3f-b28a-647734edd11e)
 ![4 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/ad91af7d-714d-4e08-b7a7-c287ba236a6a)
+
+### Map
+I went with a basic cave map, that will allow sprites to easly stand out to the player:
+
+![Map](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/ac2f38b0-ddc2-4e28-9ed5-f6434810b289)
 
 
 ### Rounds
