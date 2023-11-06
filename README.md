@@ -141,14 +141,14 @@ End
 
 > ### Development
 
-**Early gameplay** 
+### Early gameplay
 
 - Character Movement and shooting has been added
 - Hazards (Enemies) will chase the player and make them lose a life 
 - Points are rewarded when eliminating a zombie
 - Round base has been added allow for hoards to spawn each round increasing in numbers and allowing for more of a challenge
 
-**Finished gameplay**
+### Finished gameplay
 
 Including all the early gameplay features as already stated.
 - Game Over screen has been added, showing the round survived to and the overall score achieved 
