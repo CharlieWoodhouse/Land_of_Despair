@@ -40,12 +40,12 @@ My game design centres around surviving waves of zombies while gathering valuabl
 | ![Gem](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/7638da05-ce74-42b2-97af-90d3160ba12e)           | Gem    | 75             |
 | ![Zombie Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/b0cf70a2-cd91-426c-911f-d46bae8a96bb)| Zombie | 100            |
 
-### Extra Item
+### Extra Items
 
-| Image                                                                                                                      | Item   | Effect |
-|----------------------------------------------------------------------------------------------------------------------------|--------|--------|
-|![New Piskel (9)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/423e6f22-0ca3-4df5-a389-6abce58154e4)| Heart   | Extra life, which when picked up, will add another heart to the HUD bar             |               
-|![New Piskel (7)](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/46155817-0955-4ada-b7b1-895deea30496)| Lightning Bolt | Speed up the character movement by x2              |
+| Image                                                                                                                     | Item   | Effect |
+|---------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|![Heart](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/423e6f22-0ca3-4df5-a389-6abce58154e4)        | Heart   | Extra life, which when picked up, will add another heart to the HUD bar             |               
+|![Lighting Bolt](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/46155817-0955-4ada-b7b1-895deea30496)| Lightning Bolt | Speed up the character movement by x2              |
 
 ### HUD
 These are health bars for players lives between 0 – 4 lives:
