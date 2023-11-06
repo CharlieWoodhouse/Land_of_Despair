@@ -27,12 +27,12 @@ My game design centres around surviving waves of zombies while gathering valuabl
 
 ### Scoring
 
-| Image                                                                                                                        | Iteam  | Points Awarded |
-|------------------------------------------------------------------------------------------------------------------------------|--------|----------------|
-| ![Gold](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/d6549b36-921d-4253-9078-c4cf36a56c5d)           | Gold   | 50             |               
-| ![Silver](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/6882a6f9-124a-41f7-b425-72da191787c2)         | Silver | 25             |
-| ![Gem](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/7638da05-ce74-42b2-97af-90d3160ba12e)            | Gem    | 75             |
-| ![Zombie Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/b0cf70a2-cd91-426c-911f-d46bae8a96bb) | Zombie | 100            |
+| Image                                                                                                                       | Iteam  | Points Awarded |
+|-----------------------------------------------------------------------------------------------------------------------------|--------|----------------|
+| ![Gold](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/d6549b36-921d-4253-9078-c4cf36a56c5d)          | Gold   | 50             |               
+| ![Silver](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/6882a6f9-124a-41f7-b425-72da191787c2)        | Silver | 25             |
+| ![Gem](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/7638da05-ce74-42b2-97af-90d3160ba12e)           | Gem    | 75             |
+| ![Zombie Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/b0cf70a2-cd91-426c-911f-d46bae8a96bb)| Zombie | 100            |
 
 
 ### Rounds
