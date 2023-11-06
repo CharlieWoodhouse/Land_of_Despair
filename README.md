@@ -119,20 +119,20 @@ End
 **Early gameplay** 
 
 - Character Movement and shooting has been added
-- The hazards (Enemies) will chase the player and make them lose a life 
+- Hazards (Enemies) will chase the player and make them lose a life 
 - Points are rewarded when eliminating a zombie
-- A round base has been added allow for hoards to spawn each round increasing in numbers and allowing for more of a challenge
+- Round base has been added allow for hoards to spawn each round increasing in numbers and allowing for more of a challenge
 
 **Finished gameplay**
 
 Including all the early gameplay features as already stated.
-- A Game Over screen has been added, showing the round survived to and the overall score achieved 
+- Game Over screen has been added, showing the round survived to and the overall score achieved 
 - Updated Player and Zombie textures which both changes depending on movement 
 - Collectable points have been added, allow the player to increase their score by picking up the items.
 - Background image added
 - Timer has been added in the top right
 
 
-> ### Review
+> ### Review and Future Improvements
 
-I feel like I have a great foundation for an entertaining game but can be improved by adding power ups, adding the objective sprites, adding more weapons and a retry option on end screen, but considering it to be my first game and with a 11 week time frame, I think I did well.
+While Land of Despair is a great starting point, there are opportunities for future enhancements, such as adding power-ups, more objective sprites, additional weapons, and a retry option on the game over screen. Given the constraints of an 11-week development timeframe, I believe the game has achieved its goals effectively.
