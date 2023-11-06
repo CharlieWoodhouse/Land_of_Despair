@@ -45,7 +45,7 @@ My game design centres around surviving waves of zombies while gathering valuabl
 ![Map](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/ac2f38b0-ddc2-4e28-9ed5-f6434810b289)
 
 ### HUD
-
+These are health bars for players lives between 0 – 4 lives:
 ![0 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/5a9552a5-db36-4da3-904f-3d936a302b8e)
 ![1 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/33f7a873-5097-44d3-809c-8bc31987182e)
 ![2 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/12208c00-a13c-4f43-a356-19e2151e3aa7)
