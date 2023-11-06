@@ -20,7 +20,7 @@ My game design centres around surviving waves of zombies while gathering valuabl
 - Three lives per game
 - The aim is to see how long you can survive, with round-based scoring.
 
-![basic character model](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCODZombies%2Fcomments%2F9wqcun%2Ftake_a_look_at_this_ui_this_beautiful_simplistic%2F&psig=AOvVaw2O6GJoIODmSIU9_WPP-w44&ust=1699364071862000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD3zs--r4IDFQAAAAAdAAAAABAE)
+![Basic Character Model]()
 
 ### Scoring
 
