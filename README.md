@@ -4,7 +4,7 @@ This is a 2D game in C# using Visual Studio 2022 and the Monogame extension. It 
 The full PDF can be sent if requested, but here is some of the basic documentation that went into the game:
 > ### Panning
 
-Score based performance allows players to receive a score to improve on, allowing for competition, leading into increasing difficulty in levels to show off skill, to see how far you as a player can go. Collectables and enemies should allow for strategy and challenges to the player, allowing players navigate carefully, furthermore having an interface being user friendly, will make it easy for the player to understand and be able to focus on the gameplay. The deadline is 11 weeks complete all stages to create a fully functioning game.
+Score based performance allows players to receive a score to improve on, allowing for competition, leading into increasing difficulty in levels to show off skill, to see how far you as a player can go. Collectables and enemies should allow for strategy and challenges to the player, allowing players navigate carefully, furthermore having an interface being user friendly, will make it easy for the player to understand and be able to focus on the gameplay. The deadline set to complete all stages of game development is 11 weeks.
 
 
 > ### Game Designs
