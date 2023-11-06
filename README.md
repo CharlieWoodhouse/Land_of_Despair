@@ -100,7 +100,7 @@ End screen gets displayed.
 End
 ```
 
-> ### Test plan that took place
+> ### Test plan
 
 ### Functional Testing
 
