@@ -48,11 +48,19 @@ Is to see how long you can survive for, due to it being a round based game, mean
 
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |------------|---|---|---|---|---|---|---|---|---|----|
-| Spawn Delay|150|250|350|450|550|650|750|850|950|1050|
+|Spawn Delay |150|250|350|450|550|650|750|850|950|1050|
 
-- Zombie count per round =2N+4
-- Zombie movement speed =6+N/2
+**Zombie count per round =2N+4**
 
+| Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|------------|---|---|---|---|---|---|---|---|---|----|
+|Zombie Count| 6 | 8 | 10| 12| 14| 16| 18| 20| 22| 24 |
+
+**Zombie movement speed =6+N/2**
+
+| Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8  | 9  | 10 |
+|------------|---|---|---|---|---|---|---|----|----|----|
+| Speed      |6.5|7.0|7.5|8.0|8.5|9.0|9.5|10.0|10.5|11.0|
 
 **Game algorithm (pseudo code)**
 
