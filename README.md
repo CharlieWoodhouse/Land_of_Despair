@@ -85,7 +85,7 @@ End
 
 > ### Test plan that took place
 
-**Functional Testing**
+###Functional Testing
 - Player Movement
 - Player Health
 - Zombie Spawning
@@ -96,14 +96,14 @@ End
 - Score Calculation
 - Game Over
 
-**Usability Testing**
+###Usability Testing
 - Controls and inputs
 - Shooting Accuracy
 - Collectable items are visible
 - Round Progression
 - User Interface Layout
 
-**Stability and Performance**
+###Stability and Performance
 - Multiple Zombies Spawning
 - Bullet Count
 - Game Responds
