@@ -30,6 +30,12 @@ Depending on the direction the player is moving, will determine the zombies dire
 
 ![Zombie Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/faa5deeb-7fcf-4314-9b35-2b80f29033c2)
 
+### Weapon
+
+| Image                                                                                                                     | Item            | Contribute                         |
+|---------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------------|
+|![Energy Pistol](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/ab554f3a-8bfa-4720-bc5b-1281387de8ac)| Energy Pistol   | Used at range to eliminate zombies |               
+
 
 ### Scoring
 
