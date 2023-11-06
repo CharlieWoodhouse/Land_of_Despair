@@ -44,8 +44,12 @@ Is to see how long you can survive for, due to it being a round based game, mean
 |------------|---|---|---|---|---|---|---|---|---|----|
 | Health     |150|250|350|450|550|650|750|850|950|1050|
 
+**Zombies spawn delay =10-((N-1))/2** (in seconds)
 
-- Zombies spawn delay =10-((N-1))/2  
+| Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|------------|---|---|---|---|---|---|---|---|---|----|
+| Spawn Delay|150|250|350|450|550|650|750|850|950|1050|
+
 - Zombie count per round =2N+4
 - Zombie movement speed =6+N/2
 
