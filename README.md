@@ -34,7 +34,7 @@ Depending on the direction the player is moving, will determine the zombies dire
 
 | Image                                                                                                                     | Item            | Contribute                         |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------------|
-|![Energy Pistol](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/ab554f3a-8bfa-4720-bc5b-1281387de8ac)| Energy Pistol   | Used at range to eliminate zombies |               
+|![Energy Pistol](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/acb55a4b-689d-4f8a-97f0-8f89c0b37c0d)| Energy Pistol   | Used at range to eliminate zombies |               
 
 
 ### Scoring
