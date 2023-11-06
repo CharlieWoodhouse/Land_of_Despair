@@ -46,40 +46,15 @@ Is to see how long you can survive for, due to it being a round based game, mean
 **Game algorithm (pseudo code)**
 
 Start
-
-If player presses the W key
-player moves forward. 
-
-If player presses the S key
-Player moves backwards.
-
-If player presses the A key 
-Player moves to the Left.
-
-If player presses the D key
-Player moves to the Right. 
-
-If player presses the Left mouse key
-Player shoots bullets 
-
-If player walks into Gold
-Player score gets increased by value set.
-
-If player walks into Silver
-Player score gets increased by value set.
-
-If player walks into Gem 
-Player score gets increased by value set.
-
-If all zombies are killed
-Round increases and zombie’s spawn.
-
-If zombie walks into player 
-Player loses life.
-
-If player loses all the lives
-End screen gets displayed. 
-
+If player presses the W key, the player moves forward.
+If player presses the S key, the player moves backward.
+If player presses the A key, the player moves to the left.
+If player presses the D key, the player moves to the right.
+If player presses the left mouse key, the player shoots bullets.
+If the player walks into Gold, the player's score increases.
+If all zombies are killed, the round increases, and zombies spawn.
+If a zombie walks into the player, the player loses a life.
+If the player loses all lives, the game over screen is displayed.
 End
 
 
