@@ -22,6 +22,7 @@ My game design centres around surviving waves of zombies while gathering valuabl
 
 ### Playable Character
 
+
 ![Playable Character Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/6287b3ed-c281-4460-ac44-f0ff93150b51)
 
 ### Scoring
