@@ -26,10 +26,12 @@ Is to see how long you can survive for, due to it being a round based game, mean
 
 **Scoring**
 
-- Gold – 50 points will be awarded on pick up. 
-- Silver – 25 points will be awarded on pick up.
-- Gem – 75 points will be awarded on pick up. 
-- Zombie – 100 points will be awarded when eliminated.
+| Item      | Points Awarded |
+|-----------|----------------|
+| Gold      | 50             |
+| Silver    | 25             |
+| Gem       | 75             |
+| Zombie    | 100            |
 
 
 **Rounds**
