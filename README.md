@@ -11,7 +11,7 @@ Score based performance allows players to receive a score to improve on, allowin
 
 My game design centres around surviving waves of zombies while gathering valuable items like gold, silver, and gems to accumulate points. You can also earn points by eliminating zombies. As the rounds progress, the number of zombies intensifies, making higher rounds more challenging to endure. This demands skill to reach higher levels. Losing a life occurs when a zombie hits you, and players start with 3 lives. Once all 3 lives are depleted, it's game over. 
 
-**Gameplay**
+**Designed to be:**
 - The game will be a top-down perspective
 - The game will involve rounds of zombies, which will increase in difficulty the higher the round gets.
 - The player will be able to move around the map by using W, A, S, and D keys
