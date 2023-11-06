@@ -25,19 +25,19 @@ Is to see how long you can survive for, due to it being a round based game, mean
 
 **Scoring**
 
-Gold – 50 points will be awarded on pick up. 
-Silver – 25 points will be awarded on pick up.
-Gem – 75 points will be awarded on pick up. 
-Zombie – 100 points will be awarded when eliminated.
+- Gold – 50 points will be awarded on pick up. 
+- Silver – 25 points will be awarded on pick up.
+- Gem – 75 points will be awarded on pick up. 
+- Zombie – 100 points will be awarded when eliminated.
 
 
 **Rounds**
 _Let N = round number_
 
-Zombie health =50+100N
-Zombies spawn delay =10-((N-1))/2  
-Zombie count per round =2N+4
-Zombie movement speed =6+N/2
+- Zombie health =50+100N
+- Zombies spawn delay =10-((N-1))/2  
+- Zombie count per round =2N+4
+- Zombie movement speed =6+N/2
 
 
 **Game algorithm (pseudo code)**
