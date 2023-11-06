@@ -35,6 +35,7 @@ Is to see how long you can survive for, due to it being a round based game, mean
 
 
 **Rounds**
+(This was made in the early stages of the games design which was subject to change)
 
 (Let N = round number)
 
@@ -118,33 +119,28 @@ End
 | 8       | Score Calculation | Pick up Gold, Silver, Gems and eliminate zombies |
 | 9       | Game Over         | Make the players health reach zero               |
 
-- Player Movement
-- Player Health
-- Zombie Spawning
-- Zombie Movement
-- Firing Weapon
-- Wall collusion
-- Round Completion
-- Score Calculation
-- Game Over
-
 **Usability Testing**
-- Controls and inputs
-- Shooting Accuracy
-- Collectable items are visible
-- Round Progression
-- User Interface Layout
+
+| Test ID | Test                          | How I Tested                                            |
+|---------|-------------------------------|---------------------------------------------------------|
+| 1       | Controls and inputs           | Using WASD and Left mouse click                         |
+| 2       | Shooting Accuracy             | Use Left mouse click to try and shoot zombies           |
+| 3       | Collectable items are visible | Locating the collectable items                          |
+| 4       | Round Progression             | Shooting zombies to go up the rounds                    |
+| 5       | User Interface Layout         | Easy to glance as lives, score, and round on the screen |
 
 **Stability and Performance**
-- Multiple Zombies Spawning
-- Bullet Count
-- Game Responds
-- Error Handling
-- Memory Usage
-- Loading Time
-- Resource Utilization
-- Long-Duration Gameplay
 
+| Test ID | Test                      | How I Tested                               |
+|---------|---------------------------|--------------------------------------------|
+| 1       | Multiple Zombies Spawning | Spawning many zombies                      |
+| 2       | Bullet Count              | Rapidly firing bullets                     |
+| 3       | Game Responds             | Performing multiple actions simultaneously |
+| 4       | Error Handling            | Including errors                           |
+| 5       | Memory Usage              | Checking memory usage during gameplay      |
+| 6       | Loading Time              | Launching the game                         |
+| 7       | Resource Utilization      | Monitoring GPU and CPU usage while gaming  |
+| 8       | Long-Duration Gameplay    | Playing the game for a long period         |
 
 > ### Development
 
