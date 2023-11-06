@@ -105,6 +105,19 @@ End
 > ### Test plan that took place
 
 **Functional Testing**
+
+| Test ID | Test              | How I Tested                                     |
+|---------|-------------------|--------------------------------------------------|
+| 1       | Player Movement   | WASD all responsive and moves accurate           |
+| 2       | Player Health     | Allow Zombie to hit player                       |
+| 3       | Zombie Spawning   | Increase the round number                        |
+| 4       | Zombie Movement   | Move the player around the screen                |
+| 5       | Firing Weapon     | Clicking the left mouse button                   |
+| 6       | Wall collusion    | Move the player to a wall                        |
+| 7       | Round Completion  | Eliminate all zombies spawned                    |
+| 8       | Score Calculation | Pick up Gold, Silver, Gems and eliminate zombies |
+| 9       | Game Over         | Make the players health reach zero               |
+
 - Player Movement
 - Player Health
 - Zombie Spawning
