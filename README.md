@@ -35,6 +35,7 @@ Depending on the direction the player is moving, will determine the zombies dire
 | Image                                                                                                                     | Item            | Contribute                         |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------------|
 |![Energy Pistol](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/acb55a4b-689d-4f8a-97f0-8f89c0b37c0d)| Energy Pistol   | Used at range to eliminate zombies |               
+|![pellet](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/029702cd-4322-45ef-972a-7a10e0b81c22)       | Bullet          | Fired from the Energy Pistol       |    
 
 
 ### Scoring
@@ -54,7 +55,7 @@ Depending on the direction the player is moving, will determine the zombies dire
 |![Lighting Bolt](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/46155817-0955-4ada-b7b1-895deea30496)| Lightning Bolt | Speed up the character movement by x2              |
 
 ### HUD
-An example of the lifes and score:
+An example of the lifes and score displayed on screen:
 
 ![HUB Example](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/528620d3-7c8b-4f9b-80aa-cfe89eb8b035)
 
