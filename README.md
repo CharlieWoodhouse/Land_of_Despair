@@ -35,7 +35,7 @@ Is to see how long you can survive for, due to it being a round based game, mean
 
 
 **Rounds**
-(This was made in the early stages of the games design which was subject to change)
+(This is subject to change when implemented into the game)
 
 (Let N = round number)
 
