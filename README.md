@@ -46,6 +46,7 @@ Is to see how long you can survive for, due to it being a round based game, mean
 **Game algorithm (pseudo code)**
 
 Start
+
 If player presses the W key
 player moves forward. 
 
@@ -78,6 +79,7 @@ Player loses life.
 
 If player loses all the lives
 End screen gets displayed. 
+
 End
 
 
