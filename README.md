@@ -40,6 +40,18 @@ My game design centres around surviving waves of zombies while gathering valuabl
 | ![Gem](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/7638da05-ce74-42b2-97af-90d3160ba12e)           | Gem    | 75             |
 | ![Zombie Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/b0cf70a2-cd91-426c-911f-d46bae8a96bb)| Zombie | 100            |
 
+### Map
+
+![Map](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/ac2f38b0-ddc2-4e28-9ed5-f6434810b289)
+
+### HUD
+
+![0 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/5a9552a5-db36-4da3-904f-3d936a302b8e)
+![1 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/33f7a873-5097-44d3-809c-8bc31987182e)
+![2 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/12208c00-a13c-4f43-a356-19e2151e3aa7)
+![3 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/40d3035e-4e18-4c3f-b28a-647734edd11e)
+![4 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/ad91af7d-714d-4e08-b7a7-c287ba236a6a)
+
 
 ### Rounds
 (This is subject to change when implemented into the game)
@@ -70,9 +82,6 @@ My game design centres around surviving waves of zombies while gathering valuabl
 |------------|---|---|---|---|---|---|---|----|----|----|
 | Speed      |6.5|7.0|7.5|8.0|8.5|9.0|9.5|10.0|10.5|11.0|
 
-### Map
-
-![Map](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/ac2f38b0-ddc2-4e28-9ed5-f6434810b289)
 
 ### Game algorithm (pseudo code)
 ```python
