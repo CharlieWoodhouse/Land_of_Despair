@@ -15,7 +15,7 @@ My game design centres around surviving waves of zombies while gathering valuabl
 - The game will be a top-down perspective
 - The game will involve rounds of zombies, which will increase in difficulty the higher the round gets.
 - The player will be able to move around the map by using W, A, S, and D keys
-- The player will be able to aim the space gun (which will have unlimited ammo) with their mouse.
+- The player will be able to aim the space gun, (which will have unlimited ammo) with their mouse.
 - Players will earn points by eliminating zombies and picking up treasure (gold, silver, and gems)    
 
 
@@ -116,7 +116,7 @@ End
 **Early gameplay** 
 
 - Character Movement and shooting has been added
-- The hazards (Enemies) will chase the player and make them loose a life 
+- The hazards (Enemies) will chase the player and make them lose a life 
 - Points are rewarded when eliminating a zombie
 - A round base has been added allow for hoards to spawn each round increasing in numbers and allowing for more of a challenge
 
