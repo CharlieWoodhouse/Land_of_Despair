@@ -4,7 +4,7 @@ Land of Despair is a 2D game developed in C# using Visual Studio 2022 and the Mo
 The full PDF can be sent if requested, but here is some of the basic documentation that went into the game:
 > ### Panning
 
-Score based performance allows players to receive a score to improve on, allowing for competition, leading into increasing difficulty in levels to show off skill, to see how far you as a player can go. Collectables and enemies should allow for strategy and challenges to the player, allowing players navigate carefully, furthermore having an interface being user friendly, will make it easy for the player to understand and be able to focus on the gameplay. The deadline set to complete all stages of game development is 11 weeks.
+Score-based performance allows players to receive a score to improve on, allowing for competition, leading to increasing difficulty in levels to show off skill, and to see how far you as a player can go. Collectables and enemies should allow for strategy and challenges to the player, allowing players to navigate carefully, furthermore having an interface being user user-friendly, will make it easy for the player to understand and be able to focus on the gameplay. The deadline set to complete all stages of game development is 11 weeks.
 
 
 > ### Game Design
@@ -26,7 +26,7 @@ When any of the WASD keys are pressed, the character will change direction:
 ![Playable Character Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/6287b3ed-c281-4460-ac44-f0ff93150b51)
 
 ### Zombie Movement
-Depending on the direction the player is moving, will determine the zombies direction:
+Depending on the direction the player is moving, will determine the zombie's direction:
 
 ![Zombie Walking](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/faa5deeb-7fcf-4314-9b35-2b80f29033c2)
 
@@ -55,11 +55,11 @@ Depending on the direction the player is moving, will determine the zombies dire
 |![Lighting Bolt](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/46155817-0955-4ada-b7b1-895deea30496)| Lightning Bolt | Speed up the character movement by x2              |
 
 ### HUD
-An example of the lifes and score displayed on screen:
+An example of the lives and scores displayed on the screen:
 
 ![HUB Example](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/528620d3-7c8b-4f9b-80aa-cfe89eb8b035)
 
-These are health bars for players lives between 0 – 4 lives:
+These are health bars for players' lives between 0 – 4 lives:
 
 ![0 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/5a9552a5-db36-4da3-904f-3d936a302b8e)
 ![1 Health](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/33f7a873-5097-44d3-809c-8bc31987182e)
@@ -69,7 +69,7 @@ These are health bars for players lives between 0 – 4 lives:
 
 
 ### Map
-I went with a basic cave map, that will allow sprites to easly stand out to the player:
+I went with a basic cave map, that will allow sprites to stand out to the player:
 
 ![Map](https://github.com/CharlieWoodhouse/Land_of_Despair/assets/147112008/ac2f38b0-ddc2-4e28-9ed5-f6434810b289)
 
@@ -190,16 +190,16 @@ End
 - Character Movement and shooting has been added
 - Hazards (Enemies) will chase the player and make them lose a life 
 - Points are rewarded when eliminating a zombie
-- Round base has been added allow for hoards to spawn each round increasing in numbers and allowing for more of a challenge
+- Round base has been added to allow for hoards to spawn each round increasing in numbers and allowing for more of a challenge
 
 ### Finished gameplay
 
 Including all the early gameplay features as already stated.
 - Game Over screen has been added, showing the round survived to and the overall score achieved 
-- Updated Player and Zombie textures which both changes depending on movement 
-- Collectable points have been added, allow the player to increase their score by picking up the items.
+- Updated Player and Zombie textures which both change depending on movement 
+- Collectable points have been added, allowing the player to increase their score by picking up the items.
 - Background image added
-- Timer has been added in the top right
+- A timer has been added in the top right
 
 
 > ### Review and Future Improvements
