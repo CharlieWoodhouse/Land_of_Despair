@@ -168,7 +168,7 @@ End
 | 2       | Shooting Accuracy             | Use Left mouse click to try and shoot zombies           |
 | 3       | Collectable items are visible | Locating the collectable items                          |
 | 4       | Round Progression             | Shooting zombies to go up the rounds                    |
-| 5       | User Interface Layout         | Easy to glance as lives, score, and round on the screen |
+| 5       | User Interface Layout         | Easy to glance at lives, score, and round on the screen |
 
 ### Stability and Performance
 
