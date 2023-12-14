@@ -77,7 +77,7 @@ I went with a basic cave map, that will allow sprites to stand out to the player
 ### Rounds
 (This is subject to change when implemented into the game)
 
-(Let N = round number)
+Let N = round number
 
 **Zombie health =50+100N**
 
