@@ -100,7 +100,7 @@ Let N = round number
 |Zombie Count| 6 | 8 | 10| 12| 14| 16| 18| 20| 22| 24 |
 
 
-**Zombie movement speed =min(11.0, 6+N/2)**
+**Zombie movement speed =min(11.0, 6+(N/2))**
 
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8  | 9  | 10 |
 |------------|---|---|---|---|---|---|---|----|----|----|
