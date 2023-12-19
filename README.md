@@ -86,7 +86,7 @@ Let N = round number
 | Health     |100|150|200|250|300|350|400|450|500| 550|
 
 
-**Zombies spawn delay =max(1.0, 5-(N-1)/2)** (in seconds)
+**Zombies spawn delay =max(1.0, 5-(N-1)/2)** in seconds
 
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |------------|---|---|---|---|---|---|---|---|---|----|
