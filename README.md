@@ -101,6 +101,7 @@ Limited to 1-second spawn delay
 |------------|---|---|---|---|---|---|---|---|---|----|
 |Zombie Count| 6 | 8 | 10| 12| 14| 16| 18| 20| 22| 24 |
 
+
 **Zombie movement speed =6+N/2**
 The maximum zombie movement speed will be 11.0
 
