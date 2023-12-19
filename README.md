@@ -84,6 +84,7 @@ Let N = round number
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |------------|---|---|---|---|---|---|---|---|---|----|
 | Health     |100|150|200|250|300|350|400|450|500| 550|
+
 (550 will be the maximum zombie health in the game)
 
 **Zombies spawn delay =max(1.5-(N-1)/2)** (in seconds)
@@ -91,6 +92,7 @@ Let N = round number
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |------------|---|---|---|---|---|---|---|---|---|----|
 |Spawn Delay |5.0|4.5|4.0|3.5|3.0|2.5|2.0|1.5|1.0| 1.0|
+
 (Limited to 1 second spawn delay)
 
 **Zombie count per round =2N+4**
@@ -104,6 +106,7 @@ Let N = round number
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8  | 9  | 10 |
 |------------|---|---|---|---|---|---|---|----|----|----|
 | Speed      |6.5|7.0|7.5|8.0|8.5|9.0|9.5|10.0|10.5|11.0|
+
 (The maximum zombie movement speed will be 11.0)
 
 
