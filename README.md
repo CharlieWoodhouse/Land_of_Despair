@@ -75,7 +75,7 @@ I went with a basic cave map, that will allow sprites to stand out to the player
 
 
 ### Rounds
-(This is subject to change when implemented into the game)
+(This is subject to change after playtesting)
 
 Let N = round number
 
