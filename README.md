@@ -79,14 +79,14 @@ I went with a basic cave map, that will allow sprites to stand out to the player
 
 Let N = round number
 
-**Zombie health =min(550,50+50N)**
+**Zombie health =min(550, 50+50N)**
 
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |------------|---|---|---|---|---|---|---|---|---|----|
 | Health     |100|150|200|250|300|350|400|450|500| 550|
 
 
-**Zombies spawn delay =max(1.0,5-(N-1)/2)** (in seconds)
+**Zombies spawn delay =max(1.0, 5-(N-1)/2)** (in seconds)
 
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |------------|---|---|---|---|---|---|---|---|---|----|
@@ -100,7 +100,7 @@ Let N = round number
 |Zombie Count| 6 | 8 | 10| 12| 14| 16| 18| 20| 22| 24 |
 
 
-**Zombie movement speed =min(11.0,6+N/2)**
+**Zombie movement speed =min(11.0, 6+N/2)**
 
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8  | 9  | 10 |
 |------------|---|---|---|---|---|---|---|----|----|----|
