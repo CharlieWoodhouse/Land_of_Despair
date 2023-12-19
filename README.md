@@ -80,6 +80,7 @@ I went with a basic cave map, that will allow sprites to stand out to the player
 Let N = round number
 
 **Zombie health =50+50N**
+
 550 will be the maximum zombie health in the game
 
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -88,6 +89,7 @@ Let N = round number
 
 
 **Zombies spawn delay =max(1.5-(N-1)/2)** (in seconds)
+
 Limited to 1-second spawn delay
 
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -103,6 +105,7 @@ Limited to 1-second spawn delay
 
 
 **Zombie movement speed =6+N/2**
+
 The maximum zombie movement speed will be 11.0
 
 | Round      | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8  | 9  | 10 |
